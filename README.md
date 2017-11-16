@@ -1,6 +1,6 @@
 # RoRLesson
 
-##プロジェクト作成
+## プロジェクト作成
 ```
 rails new myapp
 ```
@@ -14,20 +14,20 @@ Gemfile
 gem 'therubyracer', platforms: :ruby
 ```
 
-##サーバー起動
+## サーバー起動
 myappに移動し
 
 ```
 rails s -b 0.0.0.0
 ```
 
-##ブラウザでアクセス
+## ブラウザでアクセス
 
 ```
 http://[ホスト名]:3000
 ```
 
-##スキャフォルド
+## スキャフォルド
 generate
 
 ```
